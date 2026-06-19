@@ -76,25 +76,6 @@ dhaka-dengue-vc/
 
 ![Rainfall](04_VC_Rainfall_Relationship.png) **Description:** Threshold effect at 0.1 mm rainfall, with linear increase during monsoon season.
 
-------------------------------------------------------------------------
-
-##Data Files
-
-### Dhaka_VC_Monthly_Timeseries_2002-2025.csv
-
-**Shape:** 276 rows × 6 columns\
-**Time period:** January 2002 – December 2024 (monthly aggregates)\
-**Columns:** - `time`: Date (YYYY-MM-01) - `vc_mean`: Mean vectorial capacity - `vc_std`: Standard deviation - `vc_min`: Minimum value - `vc_max`: Maximum value - `temp_mean`: Mean air temperature (°C) - `pr_mean`: Mean precipitation (mm)
-
-**Use case:** Time series analysis, trend detection, seasonal modeling
-
-### Dhaka_VC_Full_Analysis_2002-2025.csv
-
-**Shape:** 6,900 rows × 10 columns\
-**Resolution:** Grid-cell level (\~10 km × 10 km, 25 cells per month)\
-**Additional columns:** - `biting_rate_a`: Daily biting rate - `prob_vector_human_bh`: P(transmission per bite) - `prob_human_vector_bm`: P(infection per bite) - `extrinsic_incubation_n`: Incubation period (days) - `vector_mortality_mu_m`: Mortality rate (day⁻¹) - `mosquito_density_m`: Relative vector density [0.1–2.0]
-
-**Use case:** Component analysis, spatial mapping, model validation
 
 ------------------------------------------------------------------------
 
