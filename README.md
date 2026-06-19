@@ -61,13 +61,13 @@ dhaka-dengue-vc/
 
 ##Visualizations
 
-### Figure 1: Time Series (23 Years)
+### Figure 1: Time Series (22 Years)
 
-![Timeseries](01_VC_Timeseries_23years.png) **Description:** Monthly vectorial capacity (2002–2025) showing consistent annual seasonality with peak values during monsoon months.
+![Timeseries](01_VC_Timeseries_23years.png) **Description:** Monthly vectorial capacity (2002–2024) showing consistent annual seasonality with peak values during monsoon months.
 
 ### Figure 2: Seasonal Pattern (Box Plot)
 
-![Seasonal](02_VC_Seasonal_Pattern.png) **Description:** Distribution of Vc by month across all 23 years, clearly delineating seasonal transmission windows.
+![Seasonal](02_VC_Seasonal_Pattern.png) **Description:** Distribution of Vc by month across all 22 years, clearly delineating seasonal transmission windows.
 
 ### Figure 3: Temperature–Vc Relationship
 
