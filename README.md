@@ -1,8 +1,8 @@
-# Climate-driven Dengue Vectorial Capacity Analysis: Dhaka District (2002-2025)
+# Climate-driven Dengue Vectorial Capacity Analysis: Dhaka District (2002-2024)
 
 ##Research Project Overview
 
-A comprehensive 23-year analysis of dengue transmission potential in Dhaka district, Bangladesh, using temperature-dependent parameters and rainfall-based mosquito density models. This project quantifies the seasonal and temporal dynamics of vectorial capacity—the biological capacity of Aedes mosquito populations to sustain dengue transmission.
+A comprehensive 22-year analysis of dengue transmission potential in Dhaka district, Bangladesh, using temperature-dependent parameters and rainfall-based mosquito density models. This project quantifies the seasonal and temporal dynamics of vectorial capacity—the biological capacity of Aedes mosquito populations to sustain dengue transmission.
 
 **Author:** Istiaque Ahamed Nabed\
 **Institution:** Department of Disaster Science and Climate Resilience, University of Dhaka\
